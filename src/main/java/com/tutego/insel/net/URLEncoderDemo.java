@@ -1,6 +1,7 @@
 package com.tutego.insel.net;
 
-import java.io.*;
+import java.io.PrintStream;
+import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
 

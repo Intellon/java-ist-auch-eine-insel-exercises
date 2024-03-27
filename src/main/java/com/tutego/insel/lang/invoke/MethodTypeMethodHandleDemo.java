@@ -1,6 +1,6 @@
 package com.tutego.insel.lang.invoke;
 
-import java.awt.Rectangle;
+import java.awt.*;
 import java.lang.invoke.MethodHandle;
 import java.lang.invoke.MethodHandles;
 import java.lang.invoke.MethodType;

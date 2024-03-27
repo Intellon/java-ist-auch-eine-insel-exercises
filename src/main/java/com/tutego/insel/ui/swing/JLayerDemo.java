@@ -1,15 +1,8 @@
 package com.tutego.insel.ui.swing;
 
-import java.awt.BorderLayout;
-import java.awt.Color;
-import java.awt.Graphics;
-import javax.swing.JComponent;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JLayer;
-import javax.swing.JSeparator;
-import javax.swing.JTextField;
+import javax.swing.*;
 import javax.swing.plaf.LayerUI;
+import java.awt.*;
 
 public class JLayerDemo {
   public static void main( String[] args ) {

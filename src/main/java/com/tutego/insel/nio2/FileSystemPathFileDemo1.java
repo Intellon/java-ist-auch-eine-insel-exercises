@@ -1,6 +1,7 @@
 package com.tutego.insel.nio2;
 
-import java.nio.file.*;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 
 public class FileSystemPathFileDemo1 {
   public static void main( String[] args ) {

@@ -3,7 +3,9 @@ package com.tutego.insel.nio.channels;
 import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.nio.channels.SeekableByteChannel;
-import java.nio.file.*;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.nio.file.StandardOpenOption;
 
 public class SeekableByteChannelDemo {
   public static void main( String[] args ) throws IOException {

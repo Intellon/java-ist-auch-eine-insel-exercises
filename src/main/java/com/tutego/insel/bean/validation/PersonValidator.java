@@ -1,8 +1,8 @@
 package com.tutego.insel.bean.validation;
 
-import java.util.Set;
 import javax.validation.*;
 import javax.validation.constraints.NotNull;
+import java.util.Set;
 
 public class PersonValidator {
   

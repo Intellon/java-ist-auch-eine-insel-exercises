@@ -1,7 +1,9 @@
 package com.tutego.insel.net.multicast;
 
-import java.net.*;
-import java.io.*;
+import java.io.IOException;
+import java.net.DatagramPacket;
+import java.net.InetAddress;
+import java.net.MulticastSocket;
 
 public class _TimeClientMultiCast {
   public static void main( String[] args ) throws IOException {

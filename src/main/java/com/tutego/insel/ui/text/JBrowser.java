@@ -1,9 +1,10 @@
 package com.tutego.insel.ui.text;
 
 import javax.swing.*;
-import javax.swing.event.*;
-import java.io.*;
-import java.net.*;
+import javax.swing.event.HyperlinkEvent;
+import javax.swing.event.HyperlinkListener;
+import java.io.IOException;
+import java.net.URL;
 
 public class JBrowser extends JEditorPane implements HyperlinkListener {
 

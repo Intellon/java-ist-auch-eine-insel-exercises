@@ -1,6 +1,6 @@
 package com.tutego.insel.array;
 
-import java.awt.Point;
+import java.awt.*;
 
 public class CloneDemo {
 

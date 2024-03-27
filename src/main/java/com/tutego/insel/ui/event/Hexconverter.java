@@ -1,12 +1,9 @@
 package com.tutego.insel.ui.event;
 
-import java.awt.FlowLayout;
+import javax.swing.*;
+import java.awt.*;
 import java.util.Optional;
 import java.util.regex.Pattern;
-import javax.swing.JButton;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JTextField;
 
 public class Hexconverter {
   public static void main( String[] args ) {

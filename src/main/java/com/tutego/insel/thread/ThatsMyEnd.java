@@ -1,6 +1,6 @@
 package com.tutego.insel.thread;
 
-import javax.swing.JOptionPane;
+import javax.swing.*;
 
 class ThatsMyEnd {
   public static void main( String[] args ) {

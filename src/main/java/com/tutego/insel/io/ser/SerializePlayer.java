@@ -1,7 +1,9 @@
 package com.tutego.insel.io.ser;
 
-import java.io.*;
-import java.nio.file.*;
+import java.io.ObjectOutputStream;
+import java.io.OutputStream;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 
 public class SerializePlayer {
   public static void main( String[] args ) throws Exception {

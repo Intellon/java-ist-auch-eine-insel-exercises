@@ -1,6 +1,8 @@
 package com.tutego.insel.io.stream;
 
-import java.io.*;
+import java.io.FilterReader;
+import java.io.IOException;
+import java.io.Reader;
 
 public class HTMLReader extends FilterReader {
   private boolean inTag = false;

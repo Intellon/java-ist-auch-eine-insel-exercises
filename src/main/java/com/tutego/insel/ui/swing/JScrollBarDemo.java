@@ -1,11 +1,8 @@
 package com.tutego.insel.ui.swing;
 
-import java.awt.Adjustable;
-import java.awt.GridLayout;
+import javax.swing.*;
+import java.awt.*;
 import java.util.Scanner;
-import javax.swing.JFrame;
-import javax.swing.JScrollBar;
-import javax.swing.JTextField;
 
 public class JScrollBarDemo {
   public static void main( String[] args ) {

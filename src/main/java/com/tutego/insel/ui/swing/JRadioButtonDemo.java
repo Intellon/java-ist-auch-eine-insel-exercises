@@ -1,7 +1,7 @@
 package com.tutego.insel.ui.swing;
 
-import java.awt.BorderLayout;
 import javax.swing.*;
+import java.awt.*;
 
 public class JRadioButtonDemo {
   public static void main( String[] args ) {

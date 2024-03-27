@@ -1,5 +1,6 @@
 package com.tutego.insel.string;
-import java.util.*;
+
+import java.util.Random;
 
 public class Hangman2 {
   @SuppressWarnings( "resource" )

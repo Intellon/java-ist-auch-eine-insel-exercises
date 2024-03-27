@@ -1,10 +1,13 @@
 package com.tutego.insel.xml.jaxb;
 
-import java.io.*;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.*;
-import java.util.Arrays;
 import javax.xml.bind.JAXB;
+import java.io.IOException;
+import java.io.Writer;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.Arrays;
 
 public class RoomMarshaller {
   public static void main( String[] args ) {

@@ -1,6 +1,7 @@
 package com.tutego.insel.io.stream;
 
-import java.io.*;
+import java.io.IOException;
+import java.io.InputStream;
 import java.util.Objects;
 
 public class GetResourceAsStreamDemo {

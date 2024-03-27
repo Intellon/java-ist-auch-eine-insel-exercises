@@ -1,8 +1,10 @@
 package com.tutego.insel.xml.jdom;
 
-import java.util.*;
-import org.jdom2.*;
+import org.jdom2.Content;
+import org.jdom2.Document;
 import org.jdom2.input.SAXBuilder;
+
+import java.util.List;
 
 class PartyList {
   public static void main( String[] args ) throws Exception {

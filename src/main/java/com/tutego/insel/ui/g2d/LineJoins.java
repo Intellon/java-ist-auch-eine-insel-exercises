@@ -1,14 +1,9 @@
 package com.tutego.insel.ui.g2d;
 
-import java.awt.BasicStroke;
-import java.awt.Graphics;
-import java.awt.Graphics2D;
-import java.awt.RenderingHints;
+import javax.swing.*;
+import java.awt.*;
 import java.awt.geom.GeneralPath;
 import java.awt.geom.Path2D;
-
-import javax.swing.JFrame;
-import javax.swing.JPanel;
 
 class LineJoins extends JPanel {
   

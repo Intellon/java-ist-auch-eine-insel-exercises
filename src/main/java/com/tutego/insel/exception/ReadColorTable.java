@@ -1,8 +1,10 @@
 package com.tutego.insel.exception;
-import java.io.*;
+
+import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Paths;
-import java.util.*;
+import java.util.InputMismatchException;
+import java.util.Scanner;
 
 public class ReadColorTable {
 

@@ -1,6 +1,7 @@
 package com.tutego.security.digest;
 
-import java.io.*;
+import java.io.ByteArrayInputStream;
+import java.io.InputStream;
 import java.security.MessageDigest;
 import java.util.Random;
 

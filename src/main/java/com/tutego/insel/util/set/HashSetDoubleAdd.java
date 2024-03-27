@@ -1,6 +1,6 @@
 package com.tutego.insel.util.set;
 
-import java.awt.Point;
+import java.awt.*;
 import java.util.HashSet;
 import java.util.Set;
 

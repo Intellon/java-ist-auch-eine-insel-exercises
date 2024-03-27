@@ -1,6 +1,7 @@
 package com.tutego.insel.lang;
 
-import java.util.*;
+import java.util.Objects;
+import java.util.Optional;
 
 class Person {
   private Person spouse;

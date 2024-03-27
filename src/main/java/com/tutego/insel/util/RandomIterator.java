@@ -1,6 +1,7 @@
 package com.tutego.insel.util;
 
-import java.util.*;
+import java.util.Iterator;
+import java.util.Random;
 
 /**
  * Iterator for pseudorandom numbers.

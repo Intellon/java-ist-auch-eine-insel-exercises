@@ -1,7 +1,8 @@
 package com.tutego.insel.junit.vdf.v1;
 
 import java.io.IOException;
-import java.nio.file.*;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.Collections;
 
 public class VCard

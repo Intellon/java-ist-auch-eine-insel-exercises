@@ -1,7 +1,8 @@
 package com.tutego.insel.ui.table;
 
 import javax.swing.*;
-import javax.swing.table.*;
+import javax.swing.table.TableCellRenderer;
+import javax.swing.table.TableModel;
 
 public class SquareTableWithRenderer {
   public static void main( String[] args ) {

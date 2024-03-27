@@ -1,8 +1,8 @@
 package com.tutego.insel.ui.g2d;
 
-import java.awt.*;
-import java.awt.geom.*;
 import javax.swing.*;
+import java.awt.*;
+import java.awt.geom.Rectangle2D;
 
 class DashWithBasicStroke extends JPanel {
 

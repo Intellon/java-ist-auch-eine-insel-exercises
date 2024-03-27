@@ -1,7 +1,9 @@
 package com.tutego.insel.nio2;
 
 import java.io.IOException;
-import java.nio.file.*;
+import java.nio.file.LinkOption;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 
 public class RealAndAbsolutePath {
   public static void main( String[] args ) {

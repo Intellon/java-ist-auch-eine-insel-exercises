@@ -1,6 +1,6 @@
 package com.tutego.insel.util.queue;
 
-import java.util.*;
+import java.util.PriorityQueue;
 
 public class ImportancePriorityQueue {
   public static void main( String[] args ) {

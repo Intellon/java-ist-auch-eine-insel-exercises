@@ -1,8 +1,8 @@
 package com.tutego.insel.ui.g2d;
 
+import javax.swing.*;
 import java.awt.*;
 import java.awt.geom.Line2D;
-import javax.swing.*;
 
 class First2D extends JPanel {
 

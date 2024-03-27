@@ -1,6 +1,9 @@
 package com.tutego.insel.io.stream;
 
-import java.io.*;
+import java.io.EOFException;
+import java.io.IOException;
+import java.io.PushbackReader;
+import java.io.StringReader;
 
 class PushbackReaderDemo
 {

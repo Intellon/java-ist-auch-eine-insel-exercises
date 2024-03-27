@@ -1,7 +1,7 @@
 package com.tutego.insel.ui.swing;
 
-import java.awt.event.*;
 import javax.swing.*;
+import java.awt.event.ActionEvent;
 
 public class JPopupMenuDemo {
   public static void main( String[] args ) {

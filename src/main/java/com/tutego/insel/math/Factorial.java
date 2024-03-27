@@ -1,5 +1,6 @@
 package com.tutego.insel.math;
-import java.math.*;
+
+import java.math.BigInteger;
 
 public class Factorial {
   static BigInteger factorial( int n ) {

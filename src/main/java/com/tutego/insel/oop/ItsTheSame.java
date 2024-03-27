@@ -1,5 +1,6 @@
 package com.tutego.insel.oop;
-import java.awt.Point;
+
+import java.awt.*;
 
 public class ItsTheSame {
 

@@ -1,6 +1,8 @@
 package com.tutego.insel.bundle;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.ResourceBundle;
 
 public class MonthResourceBundleDemo {
   public static void main( String[] args ) {

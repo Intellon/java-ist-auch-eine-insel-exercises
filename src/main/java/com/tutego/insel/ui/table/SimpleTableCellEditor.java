@@ -1,8 +1,8 @@
 package com.tutego.insel.ui.table;
 
-import java.awt.Component;
 import javax.swing.*;
 import javax.swing.table.TableCellEditor;
+import java.awt.*;
 
 public class SimpleTableCellEditor extends AbstractCellEditor implements TableCellEditor {
   

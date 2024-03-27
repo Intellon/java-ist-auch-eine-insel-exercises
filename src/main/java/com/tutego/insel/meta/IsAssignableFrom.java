@@ -1,12 +1,11 @@
 package com.tutego.insel.meta;
 
-import static java.lang.System.out;
-
-import java.awt.Component;
+import javax.swing.*;
+import java.awt.*;
 import java.io.Serializable;
 import java.security.PublicKey;
 
-import javax.swing.JLabel;
+import static java.lang.System.out;
 
 public class IsAssignableFrom {
   public static void main( String[] args ) throws ClassNotFoundException {

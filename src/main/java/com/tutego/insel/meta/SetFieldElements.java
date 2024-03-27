@@ -1,7 +1,7 @@
 package com.tutego.insel.meta;
 
-import java.lang.reflect.*;
 import java.awt.*;
+import java.lang.reflect.Field;
 
 class SetFieldElements {
   public static void main( String[] args ) {

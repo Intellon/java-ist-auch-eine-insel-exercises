@@ -1,10 +1,6 @@
 package com.tutego.insel.prefs;
 
-import java.util.prefs.NodeChangeEvent;
-import java.util.prefs.NodeChangeListener;
-import java.util.prefs.PreferenceChangeEvent;
-import java.util.prefs.PreferenceChangeListener;
-import java.util.prefs.Preferences;
+import java.util.prefs.*;
 
 class NodePreferenceChangeListener implements NodeChangeListener, PreferenceChangeListener {
 

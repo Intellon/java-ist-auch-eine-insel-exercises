@@ -1,6 +1,7 @@
 package com.tutego.insel.oop;
-import java.awt.Color;
-import javax.swing.JLabel;
+
+import javax.swing.*;
+import java.awt.*;
 
 public class ColoredLabel extends JLabel {
 

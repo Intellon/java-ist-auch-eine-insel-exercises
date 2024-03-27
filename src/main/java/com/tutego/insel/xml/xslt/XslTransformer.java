@@ -1,12 +1,15 @@
 package com.tutego.insel.xml.xslt;
 
-import javax.xml.transform.*;
-import javax.xml.transform.stream.StreamSource;
-
 import org.jdom2.Document;
 import org.jdom2.input.SAXBuilder;
 import org.jdom2.output.XMLOutputter;
-import org.jdom2.transform.*;
+import org.jdom2.transform.JDOMResult;
+import org.jdom2.transform.JDOMSource;
+
+import javax.xml.transform.Source;
+import javax.xml.transform.Transformer;
+import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.stream.StreamSource;
 
 class XslTransformer {
   public static void main( String[] args ) throws Exception {

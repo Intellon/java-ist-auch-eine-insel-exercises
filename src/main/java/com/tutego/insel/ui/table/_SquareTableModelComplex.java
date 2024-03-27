@@ -1,9 +1,11 @@
 package com.tutego.insel.ui.table;
 
-import java.awt.event.*;
 import javax.swing.*;
-import javax.swing.table.*;
-import javax.swing.event.*;
+import javax.swing.event.TableModelEvent;
+import javax.swing.table.AbstractTableModel;
+import javax.swing.table.TableColumnModel;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
 
 class _SquareTableModelComplex extends AbstractTableModel
 {

@@ -1,6 +1,6 @@
 package com.tutego.insel.thread.concurrent;
 
-import java.awt.Point;
+import java.awt.*;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 

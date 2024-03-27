@@ -1,11 +1,10 @@
 package com.tutego.insel.ui.tree;
 
-import java.awt.Point;
-import java.util.List;
-
 import javax.swing.event.TreeModelListener;
 import javax.swing.tree.TreeModel;
 import javax.swing.tree.TreePath;
+import java.awt.*;
+import java.util.List;
 
 public class PointModel implements TreeModel {
 

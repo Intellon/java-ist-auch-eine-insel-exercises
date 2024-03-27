@@ -1,6 +1,8 @@
 package com.tutego.insel.io.stream;
 
-import java.io.*;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.io.StringWriter;
 
 public class HTMLWriterDemo {
   public static void main( String[] args ) throws IOException {

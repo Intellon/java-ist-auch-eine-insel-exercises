@@ -1,6 +1,7 @@
 package com.tutego.insel.util;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.Comparator;
 
 class RoomComparator implements Comparator<Room> {
   @Override public int compare( Room room1, Room room2 ) {

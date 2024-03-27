@@ -1,5 +1,7 @@
 package com.tutego.insel.lambda;
-import java.util.*;
+
+import java.util.Timer;
+import java.util.TimerTask;
 
 class TimerTaskLambda {
   public static TimerTask createTimerTask( Runnable runnable ) {

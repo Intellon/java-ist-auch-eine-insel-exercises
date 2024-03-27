@@ -1,10 +1,6 @@
 package com.tutego.insel.bean.veto;
 
-import java.beans.PropertyChangeListener;
-import java.beans.PropertyChangeSupport;
-import java.beans.PropertyVetoException;
-import java.beans.VetoableChangeListener;
-import java.beans.VetoableChangeSupport;
+import java.beans.*;
 
 public class Person {
   

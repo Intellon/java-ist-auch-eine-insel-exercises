@@ -1,12 +1,8 @@
 package com.tutego.insel.ui.swing;
 
-import java.awt.FlowLayout;
+import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionListener;
-
-import javax.swing.Icon;
-import javax.swing.ImageIcon;
-import javax.swing.JButton;
-import javax.swing.JFrame;
 
 public class JButtonDemo {
   public static void main( String[] args ) {

@@ -1,9 +1,6 @@
 package com.tutego.insel.ui.swing;
 
-import javax.swing.JButton;
-import javax.swing.JFrame;
-import javax.swing.JTabbedPane;
-import javax.swing.JTextArea;
+import javax.swing.*;
 
 public class JTabbedPaneDemo {
   public static void main( String[] args ) {

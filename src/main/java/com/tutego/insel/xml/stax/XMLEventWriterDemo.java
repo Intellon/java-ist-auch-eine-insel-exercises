@@ -1,8 +1,5 @@
 package com.tutego.insel.xml.stax;
 
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Iterator;
 import javax.xml.stream.XMLEventFactory;
 import javax.xml.stream.XMLEventWriter;
 import javax.xml.stream.XMLOutputFactory;
@@ -10,6 +7,9 @@ import javax.xml.stream.XMLStreamException;
 import javax.xml.stream.events.Attribute;
 import javax.xml.stream.events.Namespace;
 import javax.xml.stream.events.XMLEvent;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Iterator;
 
 public class XMLEventWriterDemo {
   public static void main( String[] args ) {

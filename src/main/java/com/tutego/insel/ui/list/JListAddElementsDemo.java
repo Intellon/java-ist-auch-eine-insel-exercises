@@ -1,12 +1,6 @@
 package com.tutego.insel.ui.list;
 
-import javax.swing.BoxLayout;
-import javax.swing.DefaultListModel;
-import javax.swing.JButton;
-import javax.swing.JFrame;
-import javax.swing.JList;
-import javax.swing.JScrollPane;
-import javax.swing.JTextField;
+import javax.swing.*;
 
 public class JListAddElementsDemo {
   public static void main( String[] args ) {

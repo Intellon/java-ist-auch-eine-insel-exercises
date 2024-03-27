@@ -1,6 +1,6 @@
 package com.tutego.insel.ui.awt;
 
-import java.awt.Frame;
+import java.awt.*;
 
 public class HelloAwtFrame {
   public static void main( String[] args ) {

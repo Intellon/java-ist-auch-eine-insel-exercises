@@ -1,8 +1,8 @@
 package com.tutego.insel.ui.layout;
 
-import java.awt.*;
-import java.text.*;
 import javax.swing.*;
+import java.awt.*;
+import java.text.NumberFormat;
 
 public class GridLayoutDemo {
   public static void main( String[] args ) {

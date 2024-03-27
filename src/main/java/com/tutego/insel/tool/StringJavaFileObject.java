@@ -1,7 +1,7 @@
 package com.tutego.insel.tool;
 
-import java.net.URI;
 import javax.tools.SimpleJavaFileObject;
+import java.net.URI;
 
 public class StringJavaFileObject extends SimpleJavaFileObject {
 

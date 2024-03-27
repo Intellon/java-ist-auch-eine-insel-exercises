@@ -1,7 +1,11 @@
 package com.tutego.insel.net;
 
-import java.io.*;
-import java.net.*;
+import java.io.IOException;
+import java.io.OutputStreamWriter;
+import java.io.Writer;
+import java.net.HttpURLConnection;
+import java.net.URL;
+import java.net.URLEncoder;
 import java.util.Scanner;
 
 public class PostRequest {

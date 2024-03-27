@@ -1,6 +1,7 @@
 package com.tutego.insel.tool;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
 
 public class MemClassLoader extends ClassLoader {
 

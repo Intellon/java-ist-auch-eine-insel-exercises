@@ -1,9 +1,12 @@
 package com.tutego.insel.xml.sax;
 
-import java.io.InputStream;
-import java.nio.file.*;
-import javax.xml.parsers.*;
 import org.xml.sax.helpers.DefaultHandler;
+
+import javax.xml.parsers.SAXParser;
+import javax.xml.parsers.SAXParserFactory;
+import java.io.InputStream;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 
 public class SAXParty {
   public static void main( String[] args ) throws Exception {

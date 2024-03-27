@@ -1,7 +1,8 @@
 package com.tutego.insel.lang;
 
-import static java.util.Optional.ofNullable;
 import java.util.Optional;
+
+import static java.util.Optional.ofNullable;
 
 class SetProperty {
   static public void main( String[] args ) {

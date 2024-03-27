@@ -1,6 +1,7 @@
 package com.tutego.insel.util.map;
 
-import java.util.*;
+import java.util.LinkedHashMap;
+import java.util.Map;
 
 public class LRUMap<K,V> extends LinkedHashMap<K,V> {
   private final int capacity;

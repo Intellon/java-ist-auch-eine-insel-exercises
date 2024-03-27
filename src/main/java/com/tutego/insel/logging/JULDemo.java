@@ -1,10 +1,11 @@
 package com.tutego.insel.logging;
 
-import static java.time.Instant.now;
-import static java.time.temporal.ChronoUnit.MILLIS;
 import java.time.Instant;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+
+import static java.time.Instant.now;
+import static java.time.temporal.ChronoUnit.MILLIS;
 
 public class JULDemo {
 

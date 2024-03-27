@@ -1,7 +1,7 @@
 package com.tutego.insel.enums;
 
+import javax.swing.*;
 import java.awt.*;
-import javax.swing.Icon;
 
 public enum DefaultIcons implements Icon {
 

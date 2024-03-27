@@ -1,6 +1,7 @@
 package com.tutego.insel.generic;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.List;
 import java.util.concurrent.atomic.AtomicReference;
 
 public class _Java7Varagrs

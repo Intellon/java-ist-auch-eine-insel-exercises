@@ -1,11 +1,6 @@
 package com.tutego.insel.util;
 
-import java.util.Arrays;
-import java.util.Collection;
-import java.util.ConcurrentModificationException;
-import java.util.Iterator;
-import java.util.NoSuchElementException;
-import java.util.Objects;
+import java.util.*;
 
 /**
  * An {@link Iterator} that goes over a given {@link Collection} 

@@ -1,7 +1,7 @@
 package com.tutego.insel.io.file;
 
-import java.io.File;
 import javax.swing.filechooser.FileSystemView;
+import java.io.File;
 
 public class SystemDisplayName {
   public static void main( String[] args ) {

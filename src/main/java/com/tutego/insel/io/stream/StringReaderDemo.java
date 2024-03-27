@@ -1,6 +1,8 @@
 package com.tutego.insel.io.stream;
 
-import java.io.*;
+import java.io.IOException;
+import java.io.Reader;
+import java.io.StringReader;
 
 class StringReaderDemo {
   @SuppressWarnings( "unused" )

@@ -1,8 +1,9 @@
 package com.tutego.insel.ui.swing;
 
-import java.awt.BorderLayout;
-import java.awt.event.*;
 import javax.swing.*;
+import java.awt.*;
+import java.awt.event.ItemEvent;
+import java.awt.event.ItemListener;
 
 public class JCheckBoxDemo {
   public static void main( String[] args ) {

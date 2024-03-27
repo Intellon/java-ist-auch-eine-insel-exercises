@@ -1,6 +1,7 @@
 package com.tutego.insel.io.file;
 
-import java.io.*;
+import java.io.IOException;
+import java.io.RandomAccessFile;
 import java.nio.channels.FileLock;
 
 public class FileUtils {

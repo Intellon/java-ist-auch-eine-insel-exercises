@@ -1,6 +1,6 @@
 package com.tutego.insel.lang.ref;
 
-import java.awt.Point;
+import java.awt.*;
 import java.lang.ref.Cleaner;
 
 public class CleanerDemo {

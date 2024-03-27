@@ -1,10 +1,12 @@
 package com.tutego.insel.logging;
 
-import static java.time.Instant.now;
-import static java.time.temporal.ChronoUnit.MILLIS;
-import java.time.Instant;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import java.time.Instant;
+
+import static java.time.Instant.now;
+import static java.time.temporal.ChronoUnit.MILLIS;
 
 public class SLF4JDemo {
 

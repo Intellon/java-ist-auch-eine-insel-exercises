@@ -1,8 +1,10 @@
 package com.tutego.insel.ui.tree;
 
 import javax.swing.*;
-import javax.swing.tree.*;
-import javax.swing.event.*;
+import javax.swing.event.TreeSelectionEvent;
+import javax.swing.event.TreeSelectionListener;
+import javax.swing.tree.DefaultMutableTreeNode;
+import javax.swing.tree.TreePath;
 
 public class JTreeDemo {
   public static void main( String[] args ) {

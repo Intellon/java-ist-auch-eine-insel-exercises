@@ -1,6 +1,6 @@
 package com.tutego.insel.object;
 
-import java.awt.Font;
+import java.awt.*;
 
 public class SuperFont extends Font {
   

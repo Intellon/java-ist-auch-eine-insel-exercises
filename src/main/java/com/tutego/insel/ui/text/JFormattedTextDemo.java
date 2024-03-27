@@ -1,9 +1,11 @@
 package com.tutego.insel.ui.text;
 
-import java.text.*;
-import java.awt.*;
-import java.awt.event.*;
 import javax.swing.*;
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.text.DecimalFormat;
+import java.text.SimpleDateFormat;
 
 public class JFormattedTextDemo {
   public static void main( String[] args ) {

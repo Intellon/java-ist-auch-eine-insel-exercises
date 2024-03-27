@@ -1,7 +1,11 @@
 package com.tutego.insel.lambda;
-import java.io.*;
-import java.nio.file.*;
-import java.util.*;
+
+import java.io.IOException;
+import java.io.UncheckedIOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.HashMap;
+import java.util.Map;
 
 class FileCache {
   private Map<String, byte[]> map = new HashMap<>();

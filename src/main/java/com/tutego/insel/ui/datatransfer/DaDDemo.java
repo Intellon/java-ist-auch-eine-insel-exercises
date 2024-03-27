@@ -1,7 +1,7 @@
 package com.tutego.insel.ui.datatransfer;
 
-import java.awt.BorderLayout;
 import javax.swing.*;
+import java.awt.*;
 
 class DaDDemo {
   public static void main( String[] args ) {

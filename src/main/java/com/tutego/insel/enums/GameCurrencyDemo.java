@@ -1,6 +1,7 @@
 package com.tutego.insel.enums;
 
-import static com.tutego.insel.enums.GameCurrency.*;
+import static com.tutego.insel.enums.GameCurrency.EURO;
+import static com.tutego.insel.enums.GameCurrency.PONRODOLLAR;
 
 public class GameCurrencyDemo {
   

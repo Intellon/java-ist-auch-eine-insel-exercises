@@ -1,8 +1,7 @@
 package com.tutego.insel.ui.awt;
 
+import javax.swing.*;
 import java.awt.geom.Ellipse2D;
-import javax.swing.JFrame;
-import javax.swing.JTextArea;
 
 public class TranslucentNonRectFrame {
   public static void main( String[] args ) {

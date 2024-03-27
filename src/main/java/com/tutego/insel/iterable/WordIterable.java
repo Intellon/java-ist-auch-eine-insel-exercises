@@ -1,6 +1,8 @@
 package com.tutego.insel.iterable;
 
-import java.util.*;
+import java.util.Iterator;
+import java.util.NoSuchElementException;
+import java.util.StringTokenizer;
 
 class WordIterable implements Iterable<String>, Iterator<String> {
   

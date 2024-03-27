@@ -1,7 +1,7 @@
 package com.tutego.insel.ui.table;
 
+import javax.swing.table.DefaultTableCellRenderer;
 import java.awt.*;
-import javax.swing.table.*;
 
 class ColoredTableCellRenderer extends DefaultTableCellRenderer {
   @Override

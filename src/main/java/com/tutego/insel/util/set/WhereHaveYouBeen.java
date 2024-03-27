@@ -1,7 +1,9 @@
 package com.tutego.insel.util.set;
 
 import java.text.BreakIterator;
-import java.util.*;
+import java.util.HashSet;
+import java.util.Set;
+import java.util.TreeSet;
 
 public class WhereHaveYouBeen {
     public static void main( String[] args ) {

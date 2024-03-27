@@ -1,6 +1,7 @@
 package com.tutego.insel.thread.concurrent;
 
-import java.util.concurrent.*;
+import java.util.concurrent.Semaphore;
+import java.util.concurrent.TimeUnit;
 
 public class SemaphoreDemo {
   

@@ -1,5 +1,7 @@
 package com.tutego.insel.lambda;
-import java.util.*;
+
+import java.util.Arrays;
+import java.util.Comparator;
 
 public class TrimCompare {
   public static void main( String[] args ) {

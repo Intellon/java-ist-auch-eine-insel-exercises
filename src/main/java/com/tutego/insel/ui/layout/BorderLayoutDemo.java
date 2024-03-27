@@ -1,7 +1,7 @@
 package com.tutego.insel.ui.layout;
 
-import java.awt.*;
 import javax.swing.*;
+import java.awt.*;
 
 public class BorderLayoutDemo {
   public static void main( String[] args ) {

@@ -1,8 +1,10 @@
 package com.tutego.insel.prefs;
 
-import java.io.*;
+import java.io.ByteArrayOutputStream;
+import java.io.IOException;
 import java.util.Objects;
-import java.util.prefs.*;
+import java.util.prefs.BackingStoreException;
+import java.util.prefs.Preferences;
 
 public class PropertiesInRegistry {
   static Preferences prefs = Preferences.userRoot().node( "/com/tutego/insel" );

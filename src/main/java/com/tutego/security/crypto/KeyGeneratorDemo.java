@@ -2,9 +2,9 @@ package com.tutego.security.crypto;
 
 import javax.crypto.KeyGenerator;
 import javax.crypto.SecretKey;
-import java.security.NoSuchAlgorithmException;
-import java.security.KeyPairGenerator;
 import java.security.KeyPair;
+import java.security.KeyPairGenerator;
+import java.security.NoSuchAlgorithmException;
 
 public class KeyGeneratorDemo {
 

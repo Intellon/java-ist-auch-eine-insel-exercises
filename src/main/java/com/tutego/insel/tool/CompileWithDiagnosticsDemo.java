@@ -1,11 +1,14 @@
 package com.tutego.insel.tool;
 
-import java.io.File;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.*;
-import java.util.*;
 import javax.tools.*;
 import javax.tools.JavaCompiler.CompilationTask;
+import java.io.File;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.Arrays;
+import java.util.Collections;
 
 public class CompileWithDiagnosticsDemo {
   public static void main( String[] args ) throws Exception {

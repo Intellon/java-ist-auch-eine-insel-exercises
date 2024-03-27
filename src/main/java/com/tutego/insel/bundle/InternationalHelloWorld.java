@@ -1,6 +1,8 @@
 package com.tutego.insel.bundle;
 
-import java.util.*;
+import java.util.Locale;
+import java.util.MissingResourceException;
+import java.util.ResourceBundle;
 
 //java -Duser.language=en InternationalHelloWorld
 

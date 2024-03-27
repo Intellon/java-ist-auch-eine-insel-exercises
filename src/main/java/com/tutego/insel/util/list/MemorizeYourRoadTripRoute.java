@@ -1,6 +1,8 @@
 package com.tutego.insel.util.list;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
 
 public class MemorizeYourRoadTripRoute {
   @SuppressWarnings( "resource" )

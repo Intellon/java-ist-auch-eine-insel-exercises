@@ -1,7 +1,7 @@
 package com.tutego.insel.ui.swing;
 
-import java.awt.*;
 import javax.swing.*;
+import java.awt.*;
 
 public class SetLookAndFeel2 {
   public static void main( String[] args ) {

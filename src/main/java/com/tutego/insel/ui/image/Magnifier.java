@@ -1,16 +1,8 @@
 package com.tutego.insel.ui.image;
 
-import java.awt.AWTException;
-import java.awt.Dimension;
-import java.awt.Image;
-import java.awt.MouseInfo;
-import java.awt.Rectangle;
-import java.awt.Robot;
+import javax.swing.*;
+import java.awt.*;
 import java.awt.image.BufferedImage;
-import javax.swing.ImageIcon;
-import javax.swing.JLabel;
-import javax.swing.JOptionPane;
-import javax.swing.Timer;
 
 public class Magnifier {
   public static void main( String[] args ) {

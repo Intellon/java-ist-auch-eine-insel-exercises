@@ -1,9 +1,9 @@
 package com.tutego.insel.ui.dialog;
 
+import javax.swing.*;
+import javax.swing.filechooser.FileFilter;
+import javax.swing.filechooser.FileNameExtensionFilter;
 import java.io.File;
-
-import javax.swing.JFileChooser;
-import javax.swing.filechooser.*;
 
 public class JFileChooserDemo {
   public static void main( String[] args ) {

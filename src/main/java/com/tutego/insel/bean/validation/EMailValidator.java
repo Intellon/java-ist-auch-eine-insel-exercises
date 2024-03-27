@@ -1,6 +1,8 @@
 package com.tutego.insel.bean.validation;
 
-import javax.validation.*;
+
+import jakarta.validation.ConstraintValidator;
+import jakarta.validation.ConstraintValidatorContext;
 
 public class EMailValidator implements ConstraintValidator<EMail,String> {
 

@@ -1,8 +1,8 @@
 package com.tutego.insel.jdbc;
 
+import javax.sql.rowset.CachedRowSet;
+import javax.sql.rowset.RowSetProvider;
 import java.sql.SQLException;
-
-import javax.sql.rowset.*;
 
 public class CachedRowSetDemo {
   public static void main( String[] args ) throws SQLException {

@@ -3,8 +3,6 @@ package com.tutego.insel.nio2;
 import java.io.IOException;
 import java.nio.file.*;
 import java.nio.file.attribute.BasicFileAttributes;
-import java.util.Collections;
-import java.util.Map;
 
 public class WalkZipFile {
   public static void main( String[] args ) throws IOException {

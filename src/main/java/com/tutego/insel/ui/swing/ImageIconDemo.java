@@ -1,13 +1,8 @@
 package com.tutego.insel.ui.swing;
 
-import java.awt.FlowLayout;
+import javax.swing.*;
+import java.awt.*;
 import java.net.URL;
-
-import javax.swing.Icon;
-import javax.swing.ImageIcon;
-import javax.swing.JButton;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
 
 public class ImageIconDemo {
   public static void main( String[] args ) {

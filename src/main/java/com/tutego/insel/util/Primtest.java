@@ -1,6 +1,6 @@
 package com.tutego.insel.util;
 
-import java.util.*;
+import java.util.BitSet;
 
 public class Primtest {
   public static void main( String[] args ) {

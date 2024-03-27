@@ -1,7 +1,8 @@
 package com.tutego.insel.xml.jaxb;
 
-import javax.xml.bind.JAXB;
 import com.tutego.insel.xml.jaxb.bible.Bible;
+
+import javax.xml.bind.JAXB;
 
 public class BibleOnline {
   public static void main( String[] args ) {

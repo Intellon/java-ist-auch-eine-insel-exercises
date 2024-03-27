@@ -1,6 +1,6 @@
 package com.tutego.insel.thread.concurrent;
 
-import java.awt.Point;
+import java.awt.*;
 
 public class ParallelPointInit {
 

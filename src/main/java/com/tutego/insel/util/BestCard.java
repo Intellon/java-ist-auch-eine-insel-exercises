@@ -1,6 +1,9 @@
 package com.tutego.insel.util;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.EnumSet;
+import java.util.List;
 
 public class BestCard {
   

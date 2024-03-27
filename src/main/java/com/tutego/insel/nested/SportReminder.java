@@ -1,6 +1,7 @@
 package com.tutego.insel.nested;
 
-import java.util.*;
+import java.util.Timer;
+import java.util.TimerTask;
 
 public class SportReminder {
   public static void main( String[] args ) {

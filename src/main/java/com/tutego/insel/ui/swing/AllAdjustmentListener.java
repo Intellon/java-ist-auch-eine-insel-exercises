@@ -1,6 +1,6 @@
 package com.tutego.insel.ui.swing;
 
-import java.awt.Adjustable;
+import java.awt.*;
 import java.awt.event.AdjustmentEvent;
 import java.awt.event.AdjustmentListener;
 

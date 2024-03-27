@@ -1,9 +1,10 @@
 package com.tutego.insel.lang;
 
-import static java.util.concurrent.TimeUnit.NANOSECONDS;
 import java.util.Arrays;
 import java.util.function.Supplier;
 import java.util.function.ToLongFunction;
+
+import static java.util.concurrent.TimeUnit.NANOSECONDS;
 
 class Profiling {
 

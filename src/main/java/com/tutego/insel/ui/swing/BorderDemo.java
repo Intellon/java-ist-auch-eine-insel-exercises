@@ -1,8 +1,9 @@
 package com.tutego.insel.ui.swing;
 
-import java.awt.*;
 import javax.swing.*;
-import javax.swing.border.*;
+import javax.swing.border.BevelBorder;
+import javax.swing.border.EtchedBorder;
+import java.awt.*;
 
 public class BorderDemo {
   public static void main( String[] args ) {

@@ -1,5 +1,4 @@
-import java.awt.Point;
-import java.awt.Polygon;
+import java.awt.*;
 
 class AwtWithImport {
 

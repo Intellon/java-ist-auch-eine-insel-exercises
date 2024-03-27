@@ -2,8 +2,9 @@ package com.tutego.insel.util.stream;
 
 import java.math.BigInteger;
 import java.util.concurrent.TimeUnit;
-import java.util.function.*;
-import java.util.stream.*;
+import java.util.function.Function;
+import java.util.function.Supplier;
+import java.util.stream.IntStream;
 
 public class _ParallelStream {
 

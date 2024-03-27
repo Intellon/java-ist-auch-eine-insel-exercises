@@ -1,10 +1,8 @@
 package com.tutego.insel.ui.event;
 
+import javax.swing.*;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
-import javax.swing.JButton;
-import javax.swing.JFrame;
-import javax.swing.SwingWorker;
 
 public class SwingWorkerDemo extends JFrame {
   private JButton button = new JButton( "Change my mind!" );

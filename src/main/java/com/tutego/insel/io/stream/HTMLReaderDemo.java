@@ -1,6 +1,7 @@
 package com.tutego.insel.io.stream;
 
-import java.io.*;
+import java.io.Reader;
+import java.io.StringReader;
 import java.util.Scanner;
 
 public class HTMLReaderDemo

@@ -1,23 +1,19 @@
 //
 // Diese Datei wurde mit der JavaTM Architecture for XML Binding(JAXB) Reference Implementation, v2.3.0-b170531.0717 generiert 
 // Siehe <a href="https://jaxb.java.net/">https://jaxb.java.net/</a> 
-// Änderungen an dieser Datei gehen bei einer Neukompilierung des Quellschemas verloren. 
+// ï¿½nderungen an dieser Datei gehen bei einer Neukompilierung des Quellschemas verloren. 
 // Generiert: 2017.10.28 um 11:56:51 PM CEST 
 //
 
 
 package com.tutego.insel.xml.jaxb.bible;
 
+import javax.xml.bind.annotation.*;
 import java.math.BigDecimal;
-import javax.xml.bind.annotation.XmlAccessType;
-import javax.xml.bind.annotation.XmlAccessorType;
-import javax.xml.bind.annotation.XmlElement;
-import javax.xml.bind.annotation.XmlRootElement;
-import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * <p>Java-Klasse für anonymous complex type.
+ * <p>Java-Klasse fï¿½r anonymous complex type.
  * 
  * <p>Das folgende Schemafragment gibt den erwarteten Content an, der in dieser Klasse enthalten ist.
  * 
@@ -152,7 +148,7 @@ public class Bible {
 
 
     /**
-     * <p>Java-Klasse für anonymous complex type.
+     * <p>Java-Klasse fï¿½r anonymous complex type.
      * 
      * <p>Das folgende Schemafragment gibt den erwarteten Content an, der in dieser Klasse enthalten ist.
      * 
@@ -274,7 +270,7 @@ public class Bible {
 
 
         /**
-         * <p>Java-Klasse für anonymous complex type.
+         * <p>Java-Klasse fï¿½r anonymous complex type.
          * 
          * <p>Das folgende Schemafragment gibt den erwarteten Content an, der in dieser Klasse enthalten ist.
          * 

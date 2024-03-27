@@ -1,5 +1,7 @@
 package com.tutego.insel.string;
-import java.util.*;
+
+import java.util.ArrayList;
+import java.util.Collection;
 import java.util.regex.MatchResult;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

@@ -1,6 +1,8 @@
 package com.tutego.insel.string;
+
 import java.security.SecureRandom;
-import java.util.*;
+import java.util.Arrays;
+import java.util.Base64;
 
 public class Base64Demo {
 

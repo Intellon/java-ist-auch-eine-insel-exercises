@@ -1,10 +1,15 @@
 package com.tutego.insel.nio.channels;
 
 import java.io.IOException;
-import java.nio.*;
+import java.nio.ByteBuffer;
+import java.nio.CharBuffer;
 import java.nio.channels.FileChannel;
-import java.nio.charset.*;
-import java.nio.file.*;
+import java.nio.charset.CharsetDecoder;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.nio.file.StandardOpenOption;
 
 public class FileChannelDemo {
   public static void main( String[] args ) throws IOException {

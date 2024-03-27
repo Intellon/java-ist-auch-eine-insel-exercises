@@ -1,7 +1,8 @@
 package com.tutego.insel.sound;
 
+import javax.sound.midi.MidiSystem;
+import javax.sound.midi.Sequencer;
 import java.io.InputStream;
-import javax.sound.midi.*;
 
 public class MidiDemo {
 

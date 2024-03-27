@@ -1,10 +1,12 @@
 package com.tutego.insel.xml.jaxb;
 
+import javax.xml.XMLConstants;
+import javax.xml.bind.JAXBContext;
+import javax.xml.bind.Unmarshaller;
+import javax.xml.validation.Schema;
+import javax.xml.validation.SchemaFactory;
 import java.net.URL;
 import java.nio.file.Paths;
-import javax.xml.XMLConstants;
-import javax.xml.bind.*;
-import javax.xml.validation.*;
 
 public class ValidatingRoomUnmarshaller
 {

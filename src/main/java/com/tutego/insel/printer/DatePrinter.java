@@ -1,7 +1,8 @@
 package com.tutego.insel.printer;
 
 import java.time.LocalDate;
-import java.time.format.*;
+import java.time.format.DateTimeFormatter;
+import java.time.format.FormatStyle;
 
 public class DatePrinter {
   public static void printCurrentDate() {

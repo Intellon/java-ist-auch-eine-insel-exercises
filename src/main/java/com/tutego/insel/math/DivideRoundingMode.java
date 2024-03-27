@@ -1,5 +1,7 @@
 package com.tutego.insel.math;
-import java.math.*;
+
+import java.math.BigDecimal;
+import java.math.RoundingMode;
 
 public class DivideRoundingMode {
   public static void main( String[] args ) {

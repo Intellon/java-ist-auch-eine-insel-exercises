@@ -1,7 +1,7 @@
 package com.tutego.insel.ui.graphics;
 
-import java.awt.Graphics;
 import javax.swing.*;
+import java.awt.*;
 
 class DrawPanel extends JPanel {
 

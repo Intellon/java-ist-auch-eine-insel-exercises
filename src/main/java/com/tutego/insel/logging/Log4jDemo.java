@@ -1,10 +1,12 @@
 package com.tutego.insel.logging;
 
-import static java.time.Instant.now;
-import static java.time.temporal.ChronoUnit.MILLIS;
-import java.time.Instant;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+
+import java.time.Instant;
+
+import static java.time.Instant.now;
+import static java.time.temporal.ChronoUnit.MILLIS;
 
 public class Log4jDemo {
 

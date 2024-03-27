@@ -1,9 +1,10 @@
 package com.tutego.insel.date;
 
-import static java.lang.System.out;
 import java.text.DateFormat;
 import java.util.Date;
 import java.util.Locale;
+
+import static java.lang.System.out;
 
 public class DateTimeInstance {
 

@@ -1,11 +1,13 @@
 package com.tutego.insel.ui.swing;
 
-import java.awt.BorderLayout;
-import java.awt.event.ActionEvent;
-import java.io.*;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.*;
 import javax.swing.*;
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.io.IOException;
+import java.io.Reader;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Path;
 
 public class JToolBarDemo {
   public static void main( String[] args ) {

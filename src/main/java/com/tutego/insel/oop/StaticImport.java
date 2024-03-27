@@ -1,10 +1,10 @@
 package com.tutego.insel.oop;
 
-import static java.lang.System.out;
-import static javax.swing.JOptionPane.showInputDialog;
 import static java.lang.Integer.parseInt;
 import static java.lang.Math.max;
 import static java.lang.Math.min;
+import static java.lang.System.out;
+import static javax.swing.JOptionPane.showInputDialog;
 
 class StaticImport {
 

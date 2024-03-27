@@ -1,8 +1,12 @@
 package com.tutego.insel.xml.stax;
 
-import java.io.*;
-import java.nio.file.*;
-import javax.xml.stream.*;
+import javax.xml.stream.XMLOutputFactory;
+import javax.xml.stream.XMLStreamException;
+import javax.xml.stream.XMLStreamWriter;
+import java.io.IOException;
+import java.io.OutputStream;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 
 public class XMLStreamWriterDemo {
   public static void main( String[] args ) {

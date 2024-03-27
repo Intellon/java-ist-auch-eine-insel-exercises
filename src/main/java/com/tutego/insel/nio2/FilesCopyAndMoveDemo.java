@@ -1,6 +1,8 @@
 package com.tutego.insel.nio2;
 
-import java.nio.file.*;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 
 public class FilesCopyAndMoveDemo {
   public static void main( String[] args ) throws Exception {

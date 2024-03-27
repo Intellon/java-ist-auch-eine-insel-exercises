@@ -1,11 +1,8 @@
 package com.tutego.insel.ui.swing;
 
-import java.awt.BorderLayout;
+import javax.swing.*;
+import java.awt.*;
 import java.util.concurrent.atomic.AtomicInteger;
-import javax.swing.JButton;
-import javax.swing.JFrame;
-import javax.swing.JProgressBar;
-import javax.swing.SwingUtilities;
 
 public class JProgressBarDemo {
 

@@ -1,6 +1,6 @@
 package com.tutego.security;
 
-import java.security.*;
+import java.security.SecureRandom;
 
 public class _SecureRandomDemo {
   /**

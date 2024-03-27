@@ -1,7 +1,7 @@
 package com.tutego.insel.string;
 
-import java.util.*;
-import java.text.*;
+import java.text.Collator;
+import java.util.Locale;
 
 class CollatorStrengthDemo {
 

@@ -1,8 +1,9 @@
 package com.tutego.insel.util.map;
 
-import static java.lang.System.out;
 import java.util.HashMap;
 import java.util.Map;
+
+import static java.lang.System.out;
 
 public class EqualsIgnoreCaseStringDemo {
   public static void main( String[] args ) {

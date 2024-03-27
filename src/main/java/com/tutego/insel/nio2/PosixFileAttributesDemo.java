@@ -1,8 +1,11 @@
 package com.tutego.insel.nio2;
 
 import java.io.IOException;
-import java.nio.file.*;
-import java.nio.file.attribute.*;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.nio.file.attribute.PosixFileAttributes;
+import java.nio.file.attribute.PosixFilePermissions;
 
 public class PosixFileAttributesDemo {
   public static void main( String[] args ) throws IOException {

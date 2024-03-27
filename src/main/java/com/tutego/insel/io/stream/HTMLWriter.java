@@ -1,6 +1,8 @@
 package com.tutego.insel.io.stream;
 
-import java.io.*;
+import java.io.FilterWriter;
+import java.io.IOException;
+import java.io.Writer;
 
 class HTMLWriter extends FilterWriter {
   

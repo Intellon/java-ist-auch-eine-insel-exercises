@@ -1,10 +1,14 @@
 package com.tutego.insel.tool;
 
-import java.net.*;
+import javax.tools.JavaCompiler;
+import javax.tools.JavaCompiler.CompilationTask;
+import javax.tools.JavaFileManager;
+import javax.tools.JavaFileObject;
+import javax.tools.ToolProvider;
+import java.net.URL;
+import java.net.URLClassLoader;
 import java.nio.file.Paths;
 import java.util.Arrays;
-import javax.tools.*;
-import javax.tools.JavaCompiler.CompilationTask;
 
 public class CompileFromStringDemo {
   public static void main( String[] args ) throws Exception {

@@ -1,7 +1,10 @@
 package com.tutego.insel.io;
 
-import java.io.*;
-import java.util.zip.*;
+import java.io.BufferedInputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.zip.CRC32;
+import java.util.zip.CheckedInputStream;
 
 class CRC32Demo {
   private static final int EOF = -1;

@@ -1,8 +1,9 @@
 package com.tutego.insel.annotation;
 
+import com.tutego.insel.annotation.UrlResource.UpperLowerCase;
+
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
-import com.tutego.insel.annotation.UrlResource.UpperLowerCase;
 
 public class GetTheUrlResourceValues {
 

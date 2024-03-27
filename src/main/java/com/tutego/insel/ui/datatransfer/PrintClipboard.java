@@ -1,7 +1,9 @@
 package com.tutego.insel.ui.datatransfer;
 
-import java.awt.Toolkit;
-import java.awt.datatransfer.*;
+import java.awt.*;
+import java.awt.datatransfer.Clipboard;
+import java.awt.datatransfer.DataFlavor;
+import java.awt.datatransfer.Transferable;
 
 class PrintClipboard {
   public static void main( String[] args ) throws Exception {

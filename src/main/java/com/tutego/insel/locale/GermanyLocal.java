@@ -1,7 +1,7 @@
 package com.tutego.insel.locale;
 
-import static java.util.Locale.*;
 import static java.lang.System.out;
+import static java.util.Locale.*;
 
 public class GermanyLocal {
 

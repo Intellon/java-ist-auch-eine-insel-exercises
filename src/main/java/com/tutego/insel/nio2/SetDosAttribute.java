@@ -1,8 +1,10 @@
 package com.tutego.insel.nio2;
 
 import java.io.IOException;
-import java.nio.file.*;
-import java.nio.file.attribute.*;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.nio.file.attribute.DosFileAttributes;
 
 public class SetDosAttribute {
   public static void main( String[] args ) throws IOException {

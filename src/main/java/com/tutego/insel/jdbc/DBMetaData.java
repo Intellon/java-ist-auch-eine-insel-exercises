@@ -1,8 +1,9 @@
 package com.tutego.insel.jdbc;
 
-import java.sql.*;
 import javax.naming.InitialContext;
 import javax.sql.DataSource;
+import java.sql.Connection;
+import java.sql.DatabaseMetaData;
 
 public class DBMetaData {
   public static void main( String[] args ) throws Exception {

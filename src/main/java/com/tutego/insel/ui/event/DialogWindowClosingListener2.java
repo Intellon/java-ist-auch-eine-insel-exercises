@@ -1,7 +1,8 @@
 package com.tutego.insel.ui.event;
 
-import java.awt.event.*;
-import javax.swing.JOptionPane;
+import javax.swing.*;
+import java.awt.event.WindowAdapter;
+import java.awt.event.WindowEvent;
 
 public class DialogWindowClosingListener2 extends WindowAdapter {
   @Override public void windowClosing( WindowEvent event ) {

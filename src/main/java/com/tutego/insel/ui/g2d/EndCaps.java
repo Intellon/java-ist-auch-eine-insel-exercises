@@ -1,7 +1,7 @@
 package com.tutego.insel.ui.g2d;
 
-import java.awt.*;
 import javax.swing.*;
+import java.awt.*;
 
 class EndCaps extends JPanel {
 

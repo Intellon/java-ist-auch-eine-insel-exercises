@@ -1,7 +1,7 @@
 package com.tutego.insel.ui.image;
 
 import java.awt.*;
-import java.awt.image.*;
+import java.awt.image.DataBuffer;
 
 public class ImageDiffs {
   public static void main( String args[] ) throws Exception {

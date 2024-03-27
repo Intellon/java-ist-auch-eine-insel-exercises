@@ -1,11 +1,7 @@
 package com.tutego.insel.pattern.listener;
 
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
-import java.util.Timer;
-import java.util.TimerTask;
 import javax.swing.event.EventListenerList;
+import java.util.*;
 
 public class Radio {
   

@@ -1,8 +1,8 @@
 package com.tutego.insel.ui.table;
 
-import java.awt.*;
 import javax.swing.*;
-import javax.swing.table.*;
+import javax.swing.table.TableCellRenderer;
+import java.awt.*;
 
 public class TwoLinesCellRenderer extends JTextArea implements TableCellRenderer {
   @Override public Component getTableCellRendererComponent( JTable table, Object value, boolean isSelected,

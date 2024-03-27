@@ -1,9 +1,10 @@
 package com.tutego.insel.net;
 
-import java.net.*;
+import java.net.URL;
+import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
 import java.util.Scanner;
-import java.util.regex.*;
+import java.util.regex.Pattern;
 
 public class OpenstreetmapSeeker {
 

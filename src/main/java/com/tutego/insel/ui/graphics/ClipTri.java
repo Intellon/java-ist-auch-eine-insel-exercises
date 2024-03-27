@@ -1,7 +1,7 @@
 package com.tutego.insel.ui.graphics;
 
-import java.awt.*;
 import javax.swing.*;
+import java.awt.*;
 
 public class ClipTri extends JPanel {
 

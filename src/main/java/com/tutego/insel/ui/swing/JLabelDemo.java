@@ -1,7 +1,7 @@
 package com.tutego.insel.ui.swing;
 
-import java.awt.Color;
 import javax.swing.*;
+import java.awt.*;
 
 public class JLabelDemo {
   public static void main( String[] args ) {

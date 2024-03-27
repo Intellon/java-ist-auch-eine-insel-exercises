@@ -1,7 +1,8 @@
 package com.tutego.insel.ui.swing;
 
-import java.awt.event.*;
-import javax.swing.JPopupMenu;
+import javax.swing.*;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
 
 public class PopupMenuMouseListener extends MouseAdapter {
   

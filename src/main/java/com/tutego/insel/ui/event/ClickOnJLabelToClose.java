@@ -1,8 +1,9 @@
 package com.tutego.insel.ui.event;
 
-import java.awt.Color;
-import java.awt.event.*;
 import javax.swing.*;
+import java.awt.*;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
 
 public class ClickOnJLabelToClose {
   public static void main( String[] args ) {

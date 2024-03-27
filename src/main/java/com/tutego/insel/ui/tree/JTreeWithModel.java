@@ -1,12 +1,12 @@
 package com.tutego.insel.ui.tree;
 
-import java.awt.Point;
+import javax.swing.*;
+import javax.swing.event.TreeSelectionEvent;
+import javax.swing.event.TreeSelectionListener;
+import javax.swing.tree.TreePath;
+import java.awt.*;
 import java.util.ArrayList;
 import java.util.List;
-
-import javax.swing.*;
-import javax.swing.tree.*;
-import javax.swing.event.*;
 
 public class JTreeWithModel {
   public static void main( String[] args ) {

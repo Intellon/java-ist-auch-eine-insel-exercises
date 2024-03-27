@@ -1,6 +1,7 @@
 package com.tutego.insel.net;
 
-import java.io.*;
+import java.io.IOException;
+import java.io.InputStream;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
 import java.util.Scanner;

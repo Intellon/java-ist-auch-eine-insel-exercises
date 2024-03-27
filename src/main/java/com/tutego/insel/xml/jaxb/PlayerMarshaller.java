@@ -1,7 +1,9 @@
 package com.tutego.insel.xml.jaxb;
 
-import java.util.*;
-import javax.xml.bind.*;
+import javax.xml.bind.JAXBContext;
+import javax.xml.bind.Marshaller;
+import java.util.Calendar;
+import java.util.GregorianCalendar;
 
 public class PlayerMarshaller {
   public static void main( String[] args ) throws Exception {

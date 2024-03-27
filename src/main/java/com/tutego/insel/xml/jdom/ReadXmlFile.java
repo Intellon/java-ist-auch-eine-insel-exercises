@@ -1,11 +1,15 @@
 package com.tutego.insel.xml.jdom;
 
-import java.io.*;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.*;
-import org.jdom2.*;
+import org.jdom2.Document;
+import org.jdom2.JDOMException;
 import org.jdom2.input.SAXBuilder;
 import org.jdom2.output.XMLOutputter;
+
+import java.io.IOException;
+import java.io.Reader;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 
 class ReadXmlFile {
   public static void main( String[] args ) throws IOException, JDOMException {

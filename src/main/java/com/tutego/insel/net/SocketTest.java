@@ -1,5 +1,7 @@
 package com.tutego.insel.net;
-import java.io.*;
+
+import java.io.IOException;
+import java.io.InputStream;
 import java.net.Socket;
 import java.util.Scanner;
 

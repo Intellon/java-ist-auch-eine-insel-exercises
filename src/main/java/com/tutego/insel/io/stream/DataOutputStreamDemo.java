@@ -1,6 +1,8 @@
 package com.tutego.insel.io.stream;
 
-import java.io.*;
+import java.io.ByteArrayOutputStream;
+import java.io.DataOutputStream;
+import java.io.IOException;
 
 public class DataOutputStreamDemo {
   public static void main( String[] args ) throws IOException {

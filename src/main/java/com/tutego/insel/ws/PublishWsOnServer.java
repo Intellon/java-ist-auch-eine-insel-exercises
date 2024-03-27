@@ -1,6 +1,6 @@
 package com.tutego.insel.ws;
 
-import javax.swing.JOptionPane;
+import javax.swing.*;
 import javax.xml.ws.Endpoint;
 
 public class PublishWsOnServer {

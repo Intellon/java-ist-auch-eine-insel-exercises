@@ -1,6 +1,6 @@
 package com.tutego.insel.meta;
 
-import java.lang.reflect.*;
+import java.lang.reflect.Field;
 
 class GetFieldElements {
   public static void main( String[] args ) {

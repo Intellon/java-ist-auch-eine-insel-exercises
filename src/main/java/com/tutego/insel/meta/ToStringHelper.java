@@ -1,7 +1,9 @@
 package com.tutego.insel.meta;
 
-import java.lang.reflect.*;
-import java.util.*;
+import java.lang.reflect.AccessibleObject;
+import java.lang.reflect.Field;
+import java.util.ArrayList;
+import java.util.Collection;
 
 public class ToStringHelper {
   public static String toString( Object o ) {

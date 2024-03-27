@@ -1,7 +1,7 @@
 package com.tutego.insel.xml.jaxb;
 
-import java.util.Date;
 import javax.xml.bind.annotation.XmlRootElement;
+import java.util.Date;
 
 @XmlRootElement
 class Player {

@@ -1,7 +1,8 @@
 package com.tutego.insel.ui.graphics;
 
 import java.awt.*;
-import java.awt.event.*;
+import java.awt.event.WindowAdapter;
+import java.awt.event.WindowEvent;
 
 public class Bee extends Frame {
 

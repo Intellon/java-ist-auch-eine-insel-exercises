@@ -1,6 +1,8 @@
 package com.tutego.insel.util.queue;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 public class ImportanceComparatorDemo {
   public static void main( String[] args ) {

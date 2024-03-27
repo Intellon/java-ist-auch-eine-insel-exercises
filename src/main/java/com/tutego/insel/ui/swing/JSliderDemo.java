@@ -1,8 +1,7 @@
 package com.tutego.insel.ui.swing;
 
-import java.awt.GridLayout;
-import javax.swing.JFrame;
-import javax.swing.JSlider;
+import javax.swing.*;
+import java.awt.*;
 
 public class JSliderDemo {
   public static void main( String[] args ) {

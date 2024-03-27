@@ -1,9 +1,12 @@
 package com.tutego.insel.xml.jdom;
 
-import java.util.List;
-import org.jdom2.*;
+import org.jdom2.Content;
+import org.jdom2.Document;
+import org.jdom2.Element;
 import org.jdom2.input.SAXBuilder;
 import org.jdom2.output.XMLOutputter;
+
+import java.util.List;
 
 class AlbertsWater {
   public static void main( String[] args ) throws Exception {

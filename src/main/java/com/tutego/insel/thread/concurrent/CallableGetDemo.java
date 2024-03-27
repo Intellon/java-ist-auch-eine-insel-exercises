@@ -1,6 +1,6 @@
 package com.tutego.insel.thread.concurrent;
 
-import java.util.*;
+import java.util.Random;
 import java.util.concurrent.*;
 
 public class CallableGetDemo {

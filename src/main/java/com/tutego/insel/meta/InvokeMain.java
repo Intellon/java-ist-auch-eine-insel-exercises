@@ -1,6 +1,6 @@
 package com.tutego.insel.meta;
 
-import java.lang.reflect.*;
+import java.lang.reflect.Method;
 import java.util.Arrays;
 
 public class InvokeMain {

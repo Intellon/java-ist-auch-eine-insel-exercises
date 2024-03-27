@@ -1,5 +1,7 @@
 package com.tutego.insel.oop;
-import java.util.*;
+
+import java.util.Date;
+import java.util.Properties;
 
 public interface PropertyReader2 {
 

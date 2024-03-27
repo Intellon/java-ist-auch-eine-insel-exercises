@@ -1,7 +1,9 @@
 package com.tutego.insel.xml.jaxb;
 
-import java.util.*;
-import javax.xml.bind.annotation.*;
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlRootElement;
+import java.util.ArrayList;
+import java.util.List;
 
 @XmlRootElement( namespace = "http://tutego.com/" )
 public class Room {

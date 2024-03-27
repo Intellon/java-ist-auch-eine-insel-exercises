@@ -1,6 +1,5 @@
 package com.tutego.insel.lambda;
 
-import java.util.Comparator;
 import java.util.function.Predicate;
 
 class InnerVsLambdaDefaultMethod {

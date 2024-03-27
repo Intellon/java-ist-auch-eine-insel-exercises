@@ -1,9 +1,9 @@
 package com.tutego.insel.json;
 
-import java.io.IOException;
-import java.net.URL;
 import javax.json.Json;
 import javax.json.stream.JsonParser;
+import java.io.IOException;
+import java.net.URL;
 
 public class JsonParserDemo {
 

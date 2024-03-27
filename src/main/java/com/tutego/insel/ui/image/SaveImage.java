@@ -1,11 +1,10 @@
 package com.tutego.insel.ui.image;
 
-import java.awt.GraphicsConfiguration;
-import java.awt.GraphicsEnvironment;
+import javax.imageio.ImageIO;
+import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
-import javax.imageio.ImageIO;
 
 public class SaveImage {
   public static void main( String[] args ) throws IOException {

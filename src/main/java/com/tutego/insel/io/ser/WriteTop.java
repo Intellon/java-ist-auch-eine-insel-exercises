@@ -1,6 +1,8 @@
 package com.tutego.insel.io.ser;
 
-import java.io.*;
+import java.io.IOException;
+import java.io.ObjectOutputStream;
+import java.io.Serializable;
 
 class Base implements Serializable {
 

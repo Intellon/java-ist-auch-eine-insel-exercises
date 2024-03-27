@@ -1,5 +1,7 @@
 package com.tutego.insel.exception;
-import java.io.*;
+
+import java.io.IOException;
+import java.io.RandomAccessFile;
 
 public class ReadGifSizeShort {
 

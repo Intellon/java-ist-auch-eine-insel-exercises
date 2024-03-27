@@ -1,8 +1,10 @@
 package com.tutego.insel.util.concurrent;
 
-import java.util.concurrent.*;
-
 import com.tutego.insel.util.concurrent.Ticket.Priority;
+
+import java.util.concurrent.BlockingQueue;
+import java.util.concurrent.PriorityBlockingQueue;
+import java.util.concurrent.TimeUnit;
 
 public class PrioritizedTicketsQueue {
 

@@ -1,8 +1,10 @@
 package com.tutego.insel.xml.jaxb;
 
-import java.util.Arrays;
-import javax.xml.bind.*;
+import javax.xml.bind.JAXBContext;
+import javax.xml.bind.JAXBException;
+import javax.xml.bind.Unmarshaller;
 import javax.xml.bind.util.JAXBSource;
+import java.util.Arrays;
 
 public class RoomCopy {
   public static void main( String[] args ) throws JAXBException {

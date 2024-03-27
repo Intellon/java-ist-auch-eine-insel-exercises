@@ -1,7 +1,6 @@
 package com.tutego.insel.ui.text;
 
-import javax.swing.JFrame;
-import javax.swing.JTextField;
+import javax.swing.*;
 
 public class JTextFieldDemo {
   public static void main( String[] args ) {

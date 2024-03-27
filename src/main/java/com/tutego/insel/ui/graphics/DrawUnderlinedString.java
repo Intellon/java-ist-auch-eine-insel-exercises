@@ -1,12 +1,8 @@
 package com.tutego.insel.ui.graphics;
 
-import java.awt.Font;
-import java.awt.FontMetrics;
-import java.awt.Graphics;
+import javax.swing.*;
+import java.awt.*;
 import java.awt.font.LineMetrics;
-
-import javax.swing.JFrame;
-import javax.swing.JPanel;
 
 class DrawUnderlinedPanel extends JPanel {
   

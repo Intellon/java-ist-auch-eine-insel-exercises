@@ -1,13 +1,12 @@
 package com.tutego.insel.tool;
 
-import java.util.Collection;
-import java.util.Collections;
-
 import javax.tools.JavaCompiler;
+import javax.tools.JavaCompiler.CompilationTask;
 import javax.tools.JavaFileManager;
 import javax.tools.JavaFileObject;
 import javax.tools.ToolProvider;
-import javax.tools.JavaCompiler.CompilationTask;
+import java.util.Collection;
+import java.util.Collections;
 
 public class CompileToMemoryDemo {
   public static void main( String[] args ) throws Exception {

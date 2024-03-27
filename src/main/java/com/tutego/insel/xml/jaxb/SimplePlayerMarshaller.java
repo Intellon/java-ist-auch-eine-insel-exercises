@@ -1,7 +1,8 @@
 package com.tutego.insel.xml.jaxb;
 
-import java.util.*;
-import javax.xml.bind.*;
+import javax.xml.bind.JAXB;
+import java.util.Calendar;
+import java.util.GregorianCalendar;
 
 public class SimplePlayerMarshaller {
   public static void main( String[] args ) {

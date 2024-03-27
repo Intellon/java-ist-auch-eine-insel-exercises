@@ -1,11 +1,11 @@
 package com.tutego.insel.util.concurrent;
 
+import javax.swing.*;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.TimeUnit;
-import javax.swing.JOptionPane;
 
 public class LoggingInQueue {
 

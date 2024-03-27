@@ -1,6 +1,7 @@
 package com.tutego.insel.io.file;
 
-import java.io.*;
+import java.io.File;
+import java.io.IOException;
 
 public class Touch {
   public static void main( String[] args ) {

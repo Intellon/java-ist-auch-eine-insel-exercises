@@ -1,6 +1,10 @@
 package com.tutego.insel.httpserver;
 
-import java.awt.Desktop;
+import com.sun.net.httpserver.HttpExchange;
+import com.sun.net.httpserver.HttpHandler;
+import com.sun.net.httpserver.HttpServer;
+
+import java.awt.*;
 import java.io.IOException;
 import java.io.OutputStream;
 import java.io.OutputStreamWriter;
@@ -12,9 +16,6 @@ import java.nio.charset.StandardCharsets;
 import java.util.logging.Logger;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
-import com.sun.net.httpserver.HttpExchange;
-import com.sun.net.httpserver.HttpHandler;
-import com.sun.net.httpserver.HttpServer;
 
 public class HttpServerDemo {
   public static void main( String[] args ) throws IOException {

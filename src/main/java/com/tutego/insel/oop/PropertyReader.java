@@ -1,6 +1,7 @@
 package com.tutego.insel.oop;
+
 import java.time.LocalDate;
-import java.util.*;
+import java.util.Properties;
 
 public interface PropertyReader {
 

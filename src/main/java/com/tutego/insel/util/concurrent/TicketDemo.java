@@ -1,8 +1,10 @@
 package com.tutego.insel.util.concurrent;
 
-import java.util.*;
-
 import com.tutego.insel.util.concurrent.Ticket.Priority;
+
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
 
 public class TicketDemo {
   public static void main( String[] args ) {

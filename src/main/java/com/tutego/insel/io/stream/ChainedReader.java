@@ -1,11 +1,15 @@
 package com.tutego.insel.io.stream;
 
-import static java.nio.charset.StandardCharsets.ISO_8859_1;
 import java.io.*;
 import java.math.BigInteger;
-import java.nio.file.*;
-import java.security.*;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.security.DigestInputStream;
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
 import java.util.Scanner;
+
+import static java.nio.charset.StandardCharsets.ISO_8859_1;
 
 public class ChainedReader {
   public static void main( String[] args ) throws NoSuchAlgorithmException {

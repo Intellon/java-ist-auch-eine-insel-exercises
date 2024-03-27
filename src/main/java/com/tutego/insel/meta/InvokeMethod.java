@@ -1,7 +1,7 @@
 package com.tutego.insel.meta;
 
 import java.awt.*;
-import java.lang.reflect.*;
+import java.lang.reflect.Method;
 
 class InvokeMethod {
   public static void main( String[] args ) throws Exception {

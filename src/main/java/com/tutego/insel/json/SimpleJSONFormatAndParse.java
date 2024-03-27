@@ -1,16 +1,12 @@
 package com.tutego.insel.json;
 
-import java.awt.Point;
+import javax.json.*;
+import javax.json.stream.JsonGenerator;
+import java.awt.*;
 import java.io.StringReader;
 import java.io.StringWriter;
 import java.util.HashMap;
 import java.util.Map;
-import javax.json.Json;
-import javax.json.JsonObject;
-import javax.json.JsonObjectBuilder;
-import javax.json.JsonReader;
-import javax.json.JsonWriterFactory;
-import javax.json.stream.JsonGenerator;
 
 public class SimpleJSONFormatAndParse {
 

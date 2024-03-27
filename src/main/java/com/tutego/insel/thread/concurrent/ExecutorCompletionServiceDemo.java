@@ -1,12 +1,7 @@
 package com.tutego.insel.thread.concurrent;
 
 import java.util.List;
-import java.util.concurrent.CompletionService;
-import java.util.concurrent.ExecutionException;
-import java.util.concurrent.ExecutorCompletionService;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.TimeUnit;
+import java.util.concurrent.*;
 
 public class ExecutorCompletionServiceDemo {
   public static void main( String[] args ) {

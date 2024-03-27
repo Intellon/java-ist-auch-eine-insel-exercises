@@ -1,7 +1,7 @@
 package com.tutego.insel.ui.swing;
 
-import java.util.Date;
 import javax.swing.*;
+import java.util.Date;
 
 public class ClockApplication {
   public static void main( String[] args ) {

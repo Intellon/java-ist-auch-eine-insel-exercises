@@ -1,9 +1,10 @@
 package com.tutego.insel.script;
 
-import java.util.List;
 import jdk.jshell.JShell;
 import jdk.jshell.SnippetEvent;
 import jdk.jshell.VarSnippet;
+
+import java.util.List;
 
 public class JShellDemo {
   public static void main( String[] args ) {
