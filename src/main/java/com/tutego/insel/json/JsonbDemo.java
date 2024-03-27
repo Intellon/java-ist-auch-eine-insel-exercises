@@ -1,7 +1,8 @@
 package com.tutego.insel.json;
 
-import javax.json.bind.Jsonb;
-import javax.json.bind.JsonbBuilder;
+import jakarta.json.bind.Jsonb;
+import jakarta.json.bind.JsonbBuilder;
+
 import java.util.List;
 
 public class JsonbDemo {

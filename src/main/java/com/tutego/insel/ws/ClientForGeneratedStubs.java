@@ -1,7 +1,10 @@
 package com.tutego.insel.ws;
 
-import com.tutego.insel.ws.gen.chrisws.*;
-import com.tutego.insel.ws.gen.geoipservice.*;
+import com.tutego.insel.ws.gen.chrisws.ChrisWebServices;
+import com.tutego.insel.ws.gen.chrisws.MyWebServicesService;
+import com.tutego.insel.ws.gen.geoipservice.GeoIP;
+import com.tutego.insel.ws.gen.geoipservice.GeoIPService;
+import com.tutego.insel.ws.gen.geoipservice.GeoIPServiceSoap;
 
 public class ClientForGeneratedStubs {
   //Starten mit JVM Schalter --add-modules java.se.ee

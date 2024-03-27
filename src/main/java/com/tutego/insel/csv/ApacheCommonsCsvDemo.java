@@ -1,13 +1,14 @@
 package com.tutego.insel.csv;
 
-import java.io.IOException;
-import java.io.StringReader;
-import java.util.Arrays;
-import java.util.Locale;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVPrinter;
 import org.apache.commons.csv.CSVRecord;
+
+import java.io.IOException;
+import java.io.StringReader;
+import java.util.Arrays;
+import java.util.Locale;
 
 public class ApacheCommonsCsvDemo {
 

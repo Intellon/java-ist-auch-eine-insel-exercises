@@ -1,6 +1,8 @@
 package com.tutego.insel.jmx;
 
-import java.lang.management.*;
+import java.lang.management.ClassLoadingMXBean;
+import java.lang.management.ManagementFactory;
+import java.lang.management.MemoryMXBean;
 
 public class JvmMBeans {
   public static void main( String[] args ) {

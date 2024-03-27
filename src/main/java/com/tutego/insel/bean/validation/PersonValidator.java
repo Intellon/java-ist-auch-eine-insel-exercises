@@ -1,7 +1,11 @@
 package com.tutego.insel.bean.validation;
 
-import javax.validation.*;
-import javax.validation.constraints.NotNull;
+
+import jakarta.validation.ConstraintViolation;
+import jakarta.validation.Validation;
+import jakarta.validation.Validator;
+import jakarta.validation.constraints.NotNull;
+
 import java.util.Set;
 
 public class PersonValidator {

@@ -1,8 +1,10 @@
 package com.tutego.insel.awt;
 
-import java.awt.Desktop;
-import java.io.*;
-import java.net.*;
+import java.awt.*;
+import java.io.File;
+import java.io.IOException;
+import java.net.URI;
+import java.net.URISyntaxException;
 
 public class OpenBrowser {
   public static void main( String[] args ) {

@@ -1,13 +1,13 @@
 package com.tutego.insel.jmx;
 
-import java.lang.management.ManagementFactory;
-import java.rmi.registry.LocateRegistry;
 import javax.management.MBeanServer;
 import javax.management.ObjectName;
 import javax.management.remote.JMXConnectorServer;
 import javax.management.remote.JMXConnectorServerFactory;
 import javax.management.remote.JMXServiceURL;
-import javax.swing.JOptionPane;
+import javax.swing.*;
+import java.lang.management.ManagementFactory;
+import java.rmi.registry.LocateRegistry;
 
 public class RmiJMXConnectorServerDemo {
   public static void main( String[] args ) throws Exception {

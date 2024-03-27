@@ -1,7 +1,8 @@
 package com.tutego.insel.junit.util;
 
-import java.util.logging.Logger;
 import org.junit.jupiter.api.*;
+
+import java.util.logging.Logger;
 
 public class LifecycleDemo {
 

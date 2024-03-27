@@ -1,7 +1,8 @@
 package com.tutego.insel.util.map;
 
-import java.awt.Point;
-import java.util.*;
+import java.awt.*;
+import java.util.HashMap;
+import java.util.Map;
 
 public class MapImmutable {
   public static void main( String[] args ) {

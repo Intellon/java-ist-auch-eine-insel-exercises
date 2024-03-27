@@ -1,10 +1,9 @@
 package com.tutego.insel.jmx;
 
-import java.lang.management.ManagementFactory;
-
 import javax.management.MBeanServer;
 import javax.management.ObjectName;
-import javax.swing.JOptionPane;
+import javax.swing.*;
+import java.lang.management.ManagementFactory;
 
 public class RegisterMazeMBean {
   public static void main( String[] args ) throws Exception {

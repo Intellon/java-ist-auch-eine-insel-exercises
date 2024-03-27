@@ -1,6 +1,6 @@
 package com.tutego.insel.nongeneric;
 
-import java.awt.Font;
+import java.awt.*;
 
 public class CloneableFont extends Font implements Cloneable {
   
